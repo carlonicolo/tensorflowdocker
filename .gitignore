@@ -1,3 +1,11 @@
+# data
+.ipynb_checkpoints
+amazon_review/
+model_checkpoint/
+test.csv
+Reviews.csv
+train.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
