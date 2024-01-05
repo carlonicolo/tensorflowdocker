@@ -1,11 +1,18 @@
 # data
+<<<<<<< HEAD
 .ipynb_checkpoints
 amazon_review/
 model_checkpoint/
+=======
+>>>>>>> cacba66da36fc01fea0a5f48b43ae53e7cca5cf7
 test.csv
 Reviews.csv
 train.csv
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> cacba66da36fc01fea0a5f48b43ae53e7cca5cf7
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
